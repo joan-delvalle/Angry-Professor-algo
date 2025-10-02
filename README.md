@@ -1,1 +1,1 @@
-# Angry-Professor-algo
+# Angry-Professor-algo The program counts how many students arrive on time (arrival ≤ 0).If the number of on-time students is less than k, the class is canceled and it prints "YES"; otherwise, it prints "NO".
